@@ -1,0 +1,8 @@
+//bcryptjs-password hash
+//connect-flash-flash message
+//express-handlebars - view engine
+//express-messages && express-session - flash messages
+express-validator - validate form
+passport
+
+1st mistake = port, => 'port',
